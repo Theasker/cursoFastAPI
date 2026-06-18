@@ -1,0 +1,4 @@
+1, Papas, 70
+2, Refresco, 50
+3, Sandwich, 100
+4, barrita, 2.3
