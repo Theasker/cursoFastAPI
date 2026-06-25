@@ -21,3 +21,12 @@ class Player:
         print(f"Reproduciendo {song}")
         return 1
 
+    def stop(self):
+        """
+        Detiene la reproducción
+
+        Returns:
+            int: devuelve 1 si se detiene la reproducción, 0 si no
+        """
+        print("Deteniendo la reproducción")
+        return 1
