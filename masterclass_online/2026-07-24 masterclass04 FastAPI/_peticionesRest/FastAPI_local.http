@@ -1,0 +1,8 @@
+@baseUrl = http://127.0.0.1:8000
+@contentType = application/json
+
+### Hello world
+GET {{baseUrl}}/
+
+### Paso de parémetro
+GET http://127.0.0.1:8000/mi_nombre/Theasker

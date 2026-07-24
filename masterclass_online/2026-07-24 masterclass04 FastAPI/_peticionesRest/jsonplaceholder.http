@@ -1,0 +1,16 @@
+GET https://jsonplaceholder.org/posts
+###
+GET	https://jsonplaceholder.org/posts
+###
+GET	https://jsonplaceholder.org/posts/1
+###
+GET	https://jsonplaceholder.org/posts/1
+###
+POST https://typicode.com
+Content-Type: application/json
+
+{
+  "title": "Aprender VS Code",
+  "body": "Pasos sencillos",
+  "userId": 1
+}
